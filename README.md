@@ -1,9 +1,7 @@
 # 👋 Bonjour, je suis Ahmadou NIASS
 
 🎓 Élève Ingénieur Statisticien Économiste à l'**ENSAE de Dakar** (Cycle long)  
-Passionné par la **data science**, l’**intelligence artificielle**, et l'**informatique** de manière général.
-
-
+Passionné par la **data science**, l’**intelligence artificielle**, et l'**informatique** de manière générale.
 
 ---
 
@@ -21,7 +19,7 @@ Passionné par la **data science**, l’**intelligence artificielle**, et l'**in
 ## 🎓 Éducation
 
 **ENSAE Pierre Ndiaye de Dakar**  
-*Élève Ingénieur Statisticien Économiste en 3ème année de formation - 3eme promotion des ISE cycle long *  
+*Élève Ingénieur Statisticien Économiste en 3ème année de formation - 3eme promotion des ISE cycle long*  
 📅 *2022 – 2027*
 
 ---
