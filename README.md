@@ -40,6 +40,12 @@ Passionné par la **data science**, l’**intelligence artificielle**, et l'**in
 
 ---
 
+## 🏆 Mes Trophées GitHub
+
+[![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=ahmadouniass&theme=algolia&no-frame=true&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 📢 Suivez-moi
 
 ![GitHub followers](https://img.shields.io/github/followers/ahmadouniass?label=Followers&style=social)
