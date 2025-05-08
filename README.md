@@ -40,7 +40,7 @@ Passionné par la **data science**, l’**intelligence artificielle**, et l'**in
 
 ## 🏆 Mes Trophées GitHub
 
-[![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=ahmadouniass](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophées GitHub](https://github-profile-trophy.vercel.app/?username=ahmadouniass&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ## 📢 Suivez-moi
