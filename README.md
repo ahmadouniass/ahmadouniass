@@ -20,7 +20,7 @@ Passionné par la **data science**, l’**intelligence artificielle**, et l'**in
 
 **ENSAE Pierre Ndiaye de Dakar**  
 *Élève Ingénieur Statisticien Économiste en 3ème année de formation - 3eme promotion des ISE cycle long*  
-📅 *2022 – 2027*
+📅 *2022 – *
 
 ---
 
